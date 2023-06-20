@@ -1,0 +1,10 @@
+{
+  "name":"Ron",
+  "Age":"31",
+  "location": { latitutde:28.3,longtitude:34.2 }
+},
+{
+  "name":"Dana",
+  "Age":"30",
+  "location": { latitutde:20.3,longtitude:30.2 }
+}
