@@ -5,6 +5,11 @@
         "name": "Ron",
         "age": 40,
         "location": { "latitude": 28.3, "longitude": 34.2 }
+      },
+      {
+        "name":"Dana",
+        "age":30,
+        "location": { "latitutde": 20.3,"longtitude": 30.2 }
       }
     ],
     "tasks": [
