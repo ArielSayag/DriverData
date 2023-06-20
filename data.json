@@ -1,6 +1,18 @@
 {
-  data: {
-    drivers: [  { name:"Ron",  location: { latitutde:28.3,longtitude:34.2 }, age:40  }   ],
-    tasks:[  { title:"pick-up", scheduled_for:"x",location: { latitutde:28.4,longtitude:34.2 } }  ]
-   }
+  "data": {
+    "drivers": [
+      {
+        "name": "Ron",
+        "age": 40,
+        "location": { "latitude": 28.3, "longitude": 34.2 }
+      }
+    ],
+    "tasks": [
+      {
+        "title": "pick-up",
+        "scheduled_for": "x",
+        "location": { "latitude": 28.4, "longitude": 34.2 }
+      }
+    ]
+  }
 }
