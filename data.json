@@ -18,7 +18,9 @@
       {
         "id":3,
         "title": "pick-up",
-        "scheduled_for": "x",
+        "scheduled_for": "1.7.2023",
+        "assign to":"Ron",
+        "address":"452 johnson Avenue,Clarksburg, New York, 605",
         "location": { "latitude": 28.4, "longitude": 34.2 }
       }
     ]
